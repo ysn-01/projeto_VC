@@ -73,6 +73,3 @@ Restrições importantes:
   - qualquer código cuja autoria não seja dos elementos do grupo.
 
 ---
-
-# Execução
-./vc_moedas data/video1.mp4
