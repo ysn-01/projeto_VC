@@ -56,20 +56,12 @@ O sistema deve recorrer a:
 
 ---
 
-## Tecnologias e Restrições
+## Tecnologias
 
 - Linguagem: **C ou C++**
 - Biblioteca: **OpenCV**
 - É fornecido código de exemplo para:
   - leitura/captura de vídeo;
   - exibição de frames.
-
-Restrições importantes:
-
-- Para além das funções OpenCV usadas no `CodigoExemplo.cpp`, só podem ser utilizadas **até mais 3 funções ou instâncias de classes OpenCV** adicionais.  
-- Não é permitida a utilização de:
-  - outras bibliotecas externas de processamento de imagem;
-  - código copiado de repositórios públicos (GitHub, etc.);
-  - qualquer código cuja autoria não seja dos elementos do grupo.
 
 ---
